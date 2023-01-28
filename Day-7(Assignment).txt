@@ -45,7 +45,7 @@ Ans. Arithmetic Operators
      Bitwise Operators
      Logical Operators
      Assignment Operators
-     Misc Operators or Ternry Operator
+     Misc Operators 
 
 Q-7. Explain about Increment and Decrement operators and give an examples
 Ans. Increment operators are used to increase the value of the variable by one and decrement operators are used to decrease the value of the variable by one in Java programs. 
